@@ -1553,7 +1553,7 @@ section {
 #footer {
   color: #fff;
   font-size: 14px;
-  background: var(--primary-color);
+  background: var(--secondary-color);
   background-size: cover;
 }
 
@@ -1676,7 +1676,7 @@ section {
 }
 
 #footer .copyright-wrap {
-  border-top: 1px solid #8577fb;
+  align-items: center;
 }
 
 #footer .credits {
