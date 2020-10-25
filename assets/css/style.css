@@ -613,16 +613,19 @@ section {
   color: var(--secondary-color);
 }
 
-.about .content ul {
+.about .content ul,
+.services ul {
   list-style: none;
   padding: 0;
 }
 
-.about .content ul li {
+.about .content ul li,
+.services ul li {
   padding-bottom: 10px;
 }
 
-.about .content ul i {
+.about .content ul i,
+.services ul i {
   font-size: 20px;
   padding-right: 4px;
   color: var(--primary-color);
